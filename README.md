@@ -1,9 +1,10 @@
 ## [Hello there](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXJtdWZrMGtwcGp4bTdidTZpc3FzZnlqOTk3eGx5Yml6dW96cHBjaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiIzJSKB4l7xTouE8/giphy.gif) 👋 
 
-👨🏻‍💻 I’m a software engineer working professionally on developer experience, web APIs, and the tools associated with them - SDKs, CLIs, Terraform, OpenAPI, etc.
-On the side, I enjoy working on fullstack applications that are fun to build, because it's fun to build them.
+👨🏻‍💻 I’m a software engineer with experience in cloud development, web APIs, and client integrations like SDKs, CLIs, etc. Occasionally, I enjoy hacking on fullstack applications.
 
-🛠️ Developing tools for [IBM Cloud](https://www.ibm.com/cloud) and the [IBM Cloud API Handbook](https://cloud.ibm.com/docs/api-handbook?topic=api-handbook-intro).
+🔋 Building a platform for the next generation of energy at @BasePowerCompany.
+
+🛠️ Formerly, developed automation and tools for [IBM Cloud](https://www.ibm.com/cloud) and the [IBM Cloud API Handbook](https://cloud.ibm.com/docs/api-handbook?topic=api-handbook-intro).
 
 🎵 Outside of software, performing and recording music with [5 Star Motel](https://open.spotify.com/artist/7IMJRL5vHrhhuAqtFc0bAP?si=SkYds3ZRRQOaWBcwE6xBow).
 
