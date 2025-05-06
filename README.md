@@ -2,7 +2,7 @@
 
 👨🏻‍💻 I’m a software engineer with experience in cloud development, web APIs, and client integrations like SDKs, CLIs, etc. Occasionally, I enjoy hacking on fullstack applications.
 
-🔋 Building a platform for the next generation of energy at @BasePowerCompany.
+🔋 Building a platform for the next generation of energy at [Base Power](https://www.basepowercompany.com/).
 
 🛠️ Formerly, developed automation and tools for [IBM Cloud](https://www.ibm.com/cloud) and the [IBM Cloud API Handbook](https://cloud.ibm.com/docs/api-handbook?topic=api-handbook-intro).
 
